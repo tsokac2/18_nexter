@@ -1,6 +1,6 @@
 <h1 align="center">Nexter</h1>
 
-![Website Main Mockup](https://github.com/tsokac2/18_nexter/blob/main/public/img/w_nexter.jpg)
+![Website Main Mockup](https://github.com/tsokac2/18_nexter/blob/main/public/img/nexter.jpg)
 
 # ["Nexter"](https://res-nexter.herokuapp.com/)
 
