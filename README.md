@@ -1,4 +1,4 @@
-# ["Nexter"](https://res-nexter.herokuapp.com/)
+<h1 align="center">["Nexter"](https://res-nexter.herokuapp.com/)</h1>
 
 ### PROJECT OBJECTIVE
 Enforce cutting-edge layout technologies Flexbox and CSS Grid into real-world projects.
