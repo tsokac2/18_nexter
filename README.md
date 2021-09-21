@@ -67,8 +67,6 @@ Fully responsive to any device/screen and ready for property business implementa
 * Package manager - Use package - `node-sass`
 
 ## # [JAVASCRIPT](https://www.javascript.com/)
-Features: _Dom Events_, _Validation of User’s Input_, _Else and If Statement_, _Handling Events_,  _In-Built Function_
-
 
 ## # [GOOGLE CDN's](https://fonts.google.com/)
 * Google Fonts - **[Merienda](https://fonts.google.com/specimen/Merienda?preview.text=&preview.text_type=custom&query=mer)**
@@ -79,7 +77,6 @@ Features: _Dom Events_, _Validation of User’s Input_, _Else and If Statement_,
 
 ## # [HEROKU](https://www.heroku.com)
 * Cloud platform service used for hosting a "live" version of the project
-
 
 ## # [FONTAWESOME](https://fontawesome.com/) 
 * Use mostly for menu items and across projects elements
