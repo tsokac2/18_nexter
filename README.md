@@ -105,7 +105,7 @@ Fully responsive to any device/screen and ready for property business implementa
 
 # DEPLOYMENT
 
-**[PROJECT LINK](https://res-nexter.herokuapp.com//)**
+**[PROJECT LINK](https://res-nexter.herokuapp.com)**
 
 ### LOCAL PROJECT SETUP:
 * Create a new repository on **[GitHub](https://github.com)**
