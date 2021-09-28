@@ -41,7 +41,7 @@ Fully responsive to any device/screen and ready for property business implementa
 * Enter commands in the following order:
   * `npm init --yes` - **PRESS ENTER**
   * `npm i -g node-sass` - **PRESS ENTER**
-  * In `{} package.json` file under the `"scripts"` type the **[FOLLOWING](https://github.com/tsokac2/newirishlife/blob/main/static/wireframes/sass_01.png)**
+  * In `{} package.json` file under the `"scripts"` type the **[FOLLOWING](https://github.com/tsokac2/18_nexter/blob/main/public/img/sass_01.png)**
 * To start **SASS Compiler** enter the following command: `npm run watch` - **PRESS ENTER**
 * If no errors the compilation process _NPM SERVER_ will start with the following console log message:
     ```
@@ -54,8 +54,8 @@ Fully responsive to any device/screen and ready for property business implementa
   * assets/scss/base - global styles for html, body and special helper classes
   * assets/scss/components - carousel image slideshow, small screen navigation menu
   * assets/scss/layout - styling for _HOME_, _TRIP_, _WORK_, _LIFE_, _SHOP_, _SIGNUP_, _LOGIN_, _BAG_, _PRODUCT DETAILS_, _CHECKOUT_, _FOOTER_
-  * assets/scss/_index.scss - referencing all `*.scss` files in folder structure, **[EXAMPLE](https://github.com/tsokac2/newirishlife/blob/main/static/wireframes/sass_02.png)**
-  * **SASS RESPONSIVE Mixins** function **[EXAMPLE](https://github.com/tsokac2/newirishlife/blob/main/static/wireframes/sass_03.png)**
+  * assets/scss/_index.scss - referencing all `*.scss` files in folder structure, **[EXAMPLE](https://github.com/tsokac2/18_nexter/blob/main/public/img/sass_02.png)**
+  * **SASS RESPONSIVE Mixins** function **[EXAMPLE](https://github.com/tsokac2/18_nexter/blob/main/public/img/sass_03.png)**
 * All files in the above folders **MUST** be named with the following naming conventions: `_filename.scss`
 
 **[Back to content](#contents)**
